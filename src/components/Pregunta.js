@@ -3,7 +3,7 @@ import React, { Fragment } from 'react';
 const Pregunta = () => {
     return ( 
         <Fragment>
-            <h2>Introduzca su presupuesto</h2>
+            <h2>Introduzca su presupuesto </h2>
                <form>
                    <input
                      type ="number"
